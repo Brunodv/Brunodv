@@ -1,12 +1,14 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" />
-    <h1 align="center">Hello Work 👋</h1>
-    <h3 align="center">A fullstack web developer 😎.</h3>
-</div>
 
+[![MasterHead](https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif)](https://brunodv.github.io/BrunoDulantoValentin/)
+
+    <h1 align="center">Hello Work 👋</h1>
+    <h3 align="center">A fullstack web developer 😎</h3>
 ---
 
 ### 👨‍💻 About Me :
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/878726/screenshots/4933914/media/e692e37abd1aa1ebf725720b6d1bcb97.gif" width="300" />
+
+
 
 - Software Development 😍
 - Aeronautical Engineering 👨‍🎓
