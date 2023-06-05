@@ -7,6 +7,7 @@
 ---
 
 ### 👨‍💻 About Me :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunodv&label=Profile%20views&color=0e75b6&style=flat" alt="brunodv" /> </p>
 
 - Software Development 😍
 - Aeronautical Engineering 👨‍🎓
