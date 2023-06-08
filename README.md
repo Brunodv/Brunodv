@@ -1,6 +1,4 @@
-<p align="center">
 [![MasterHead](https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif)](https://brunodv.github.io/BrunoDulantoValentin/)
-</p>
 <h1 align="center">Hello Work 👋</h1>
 <h3 align="center">A fullstack web developer 😎</h3>
 
