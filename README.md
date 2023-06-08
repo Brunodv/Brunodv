@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif" alt="agile_Methodologies" custom image"/>
+  <img src="https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif" alt="agile_Methodologies"/>
 </p>
 <h1 align="center">Hello Work 👋</h1>
 <h3 align="center">A fullstack web developer 😎</h3>
