@@ -1,5 +1,5 @@
 
-[![MasterHead align="center"](https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif)](https://brunodv.github.io/BrunoDulantoValentin/)
+[![MasterHead](https://media.giphy.com/media/NLHq5dOtUtOUEjOr7W/giphy.gif)](https://brunodv.github.io/BrunoDulantoValentin/)
 
 <h1 align="center">Hello Work 👋</h1>
 <h3 align="center">A fullstack web developer 😎</h3>
