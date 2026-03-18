@@ -15,7 +15,7 @@
 - Aeronautical Engineering 👨‍🎓
 - Data analysis 📊
 - You can write me 📧 **xcdrxcdr@gmail.com**
-- Website 🌐 [BrunoDulantoValentin](https://brunodv.github.io/BrunoDulantoValentin/)
+- Website 🌐 [BrunoDulantoValentin](https://bruno-cv.web.app/)
 - phone ☎️ +51977631700
 
 
